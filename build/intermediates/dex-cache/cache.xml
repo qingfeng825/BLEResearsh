@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AS\Projects\TruthBlue2_11\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="F:\AS\Projects\TruthBlue2_11\app\build\intermediates\pre-dexed\debug\classes-8d7d13c02e72cddbdd1c779582b1452da9ca18f0.jar" />
+    </item>
+    <item
+        jar="F:\AS\Projects\TruthBlue2_11\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="F:\AS\Projects\TruthBlue2_11\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-cc3348830ecae7d9b6edfc5f89b65746d99236ff.jar" />
+    </item>
+    <item
+        jar="F:\AS\Setup\SDK\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="F:\AS\Projects\TruthBlue2_11\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-23441341c345265768abda792b005691d35115e9.jar" />
+    </item>
+
+</items>
